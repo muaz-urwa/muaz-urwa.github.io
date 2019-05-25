@@ -1,11 +1,11 @@
 title: Urwa Muaz # your name (or website title) here
 logo: "/images/profpic_n.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Primary interests: Deep Learning | Computer Vision | NLP | Graph neural networks 
   <br><br>
-  Second description 
+  Looking for opportunities in Pakistan 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/urwa-muaz-5613b3104/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
